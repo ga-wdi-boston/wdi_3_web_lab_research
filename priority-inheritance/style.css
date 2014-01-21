@@ -1,6 +1,7 @@
 /* UNIVERSAL SELECTOR */
-* {
+p {
 	font-size: 100px;
+	margin: 15px 0;
 }
 
 /* TYPE SELECTOR */

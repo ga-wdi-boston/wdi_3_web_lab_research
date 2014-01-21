@@ -5,6 +5,8 @@ see chart http://caniuse.com/css-filters
 
 also read http://www.html5rocks.com/en/tutorials/filters/understanding-css/#toc-how
 
+also http://html5-demos.appspot.com/static/css/filters/index.html
+
 can be applied to any element
 
 grayscale(amount)

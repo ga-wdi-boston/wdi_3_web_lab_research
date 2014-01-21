@@ -1,6 +1,3 @@
-# cool links
+# Create a new directory in this repo and place HTML/CSS files in it to explain your concepts.
 
 
-http://html5-demos.appspot.com/static/css/filters/index.html
-
-http://www.html5rocks.com/en/tutorials/filters/understanding-css/
